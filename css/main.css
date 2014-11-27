@@ -1,0 +1,22 @@
+.browserimg img {
+  max-height:150px;
+}
+
+.header {
+	min-width:100%;
+	background-color:#000000;
+	padding-top:15px;
+	padding-bottom:15px;
+	margin-bottom:15px;
+	
+	background-image:url('../img/header.png');
+}
+
+.header h1 {
+	color: #FF0000;
+	font-weight:700;
+}
+
+.header h5 {
+	color:#FFFFFF;
+}
